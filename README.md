@@ -13,7 +13,7 @@ Examples of models and prints:
 ![alt text](modelxy/example.stl "example stl")
 
 ## Usage
-Download the models you want to print and slice them in the software of your choice. I recommend the [Prusa slicer](https://www.prusa3d.com/de/page/prusaslicer_424/)
+Download the STL-models you want to print and slice them in the software of your choice. I recommend the [Prusa slicer](https://www.prusa3d.com/de/page/prusaslicer_424/)
 
 ## License
 [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/legalcode) is applied for this project meaning you are free to share and adapt the material under the following terms:
