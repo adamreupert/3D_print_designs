@@ -8,9 +8,9 @@ The models were created using the [Blender software](https://www.blender.org/) a
 ## Visuals
 Examples of models and prints:
 
-![alt text](modelxy/example.stl "example stl")
+![alt text](Coffe_holder_accessories/coffe_holder_accessories.png "Coffe holder accessories")
 <br>
-![alt text](modelxy/example.stl "example stl")
+![alt text](LED_strip_controller_wallmount/LEDStripControllerWallmount.png "LED-Strip controller wall mount")
 
 ## Usage
 Download the STL-models you want to print and slice them in the software of your choice. I recommend the [Prusa slicer](https://www.prusa3d.com/de/page/prusaslicer_424/)
